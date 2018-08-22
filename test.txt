@@ -1,22 +1,20 @@
-<<<<<<< HEAD
-1 branch update
-2
-3
-4
-5 branch update
-=======
 1 master update
 2
 3
 4
 5 master update
->>>>>>> master
 6
 7
 8
 9
-<<<<<<< HEAD
-10 branch update
-=======
 10 master update
->>>>>>> master
+1 branch update
+2
+3
+4
+5 branch update
+6
+7
+8
+9
+10 master update
