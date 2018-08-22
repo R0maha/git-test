@@ -2,4 +2,8 @@ bla bla
 master bla
 new user add
 qweqwee
+<<<<<<< HEAD
 master branch
+=======
+new string in new brach
+>>>>>>> new-user
